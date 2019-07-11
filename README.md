@@ -1,10 +1,3 @@
-hello-world
+Isingmodel
 ===========
-Online repository and backup of particular pieces of C code of importance or fancy.
-
-
-Welcome to BWeesy's github repository of some things unsanctimonious and irreverent.
-
-I hope you find what you seek.
-
-BWeesy.
+A model that approximates the Curie temperature of a generalised material by applying random thermalisation to the particles in the material.
